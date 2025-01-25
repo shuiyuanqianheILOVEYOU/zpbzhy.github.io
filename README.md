@@ -3,6 +3,7 @@
 	<head>
 		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0">
 		<title></title>
+		<link rel="stylesheet" href="zpbzhy.github.io/zhyyx/IMG/qh1.jpg">
 		<style>
 			*{
 				padding: 0;
