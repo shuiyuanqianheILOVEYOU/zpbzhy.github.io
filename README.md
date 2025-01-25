@@ -39,7 +39,7 @@
 	</head>
 	<body>
 		<div id="q">
-			<img src="zhyyx/img/qh1.jpg" alt="">
+			<img src="zbyzhy.io/zhyyx/img/qh1.jpg" alt="">
 		</div>
 		<div id="k">
 			<p><a href="http://">开始游戏</a></p>
